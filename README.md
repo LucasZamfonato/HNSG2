@@ -1,0 +1,1 @@
+# HNSG2 Projeto de androd studio - Para instituição HNSG - beta test [Relatorio - Lucas Soares de Souza.docx](https://github.com/LucasZamfonato/HNSG2/files/11851489/Relatorio.-.Lucas.Soares.de.Souza.docx) https://youtu.be/OH4V-5WFkaE 
