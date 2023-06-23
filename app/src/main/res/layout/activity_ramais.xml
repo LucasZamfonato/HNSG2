@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".RamaisActivity">
+
+    <LinearLayout
+        android:id="@+id/linearLayout2"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:background="@drawable/main_header_selector"
+        android:orientation="horizontal"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="0dp"></LinearLayout>
+
+    <Button
+        android:id="@+id/bt12"
+        android:layout_width="173dp"
+        android:layout_height="62dp"
+        android:layout_marginTop="8dp"
+        android:background="#003C1212"
+        android:backgroundTint="#00FFFFFF"
+        android:foreground="@drawable/chamar"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/TITULO" />
+
+    <TextView
+        android:id="@+id/textView36"
+        android:layout_width="350dp"
+        android:layout_height="42dp"
+        android:layout_marginTop="4dp"
+        android:background="@drawable/rounded_corner"
+        android:fontFamily="@font/comfortaa"
+        android:gravity="center|left"
+        android:text="@string/ouvi"
+        android:textSize="12sp"
+        app:layout_constraintStart_toStartOf="@+id/textView5"
+        app:layout_constraintTop_toBottomOf="@+id/textView6" />
+
+    <TextView
+        android:id="@+id/textView6"
+        android:layout_width="350dp"
+        android:layout_height="42dp"
+        android:layout_marginTop="4dp"
+        android:background="@drawable/rounded_corner"
+        android:fontFamily="@font/comfortaa"
+        android:gravity="center|left"
+        android:text="@string/tomo"
+        android:textSize="12sp"
+        app:layout_constraintStart_toStartOf="@+id/textView5"
+        app:layout_constraintTop_toBottomOf="@+id/textView9" />
+
+    <TextView
+        android:id="@+id/textView9"
+        android:layout_width="350dp"
+        android:layout_height="42dp"
+        android:layout_marginTop="4dp"
+        android:background="@drawable/rounded_corner"
+        android:fontFamily="@font/comfortaa"
+        android:gravity="center|left"
+        android:text="@string/ONCO"
+        android:textSize="12sp"
+        app:layout_constraintStart_toStartOf="@+id/textView5"
+        app:layout_constraintTop_toBottomOf="@+id/textView8" />
+
+    <TextView
+        android:id="@+id/textView8"
+        android:layout_width="350dp"
+        android:layout_height="42dp"
+        android:layout_marginTop="4dp"
+        android:background="@drawable/rounded_corner"
+        android:fontFamily="@font/comfortaa"
+        android:gravity="center|left"
+        android:text="@string/digi"
+        android:textSize="12sp"
+        app:layout_constraintStart_toStartOf="@+id/textView5"
+        app:layout_constraintTop_toBottomOf="@+id/textView10" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="350dp"
+        android:layout_height="42dp"
+        android:layout_marginTop="4dp"
+        android:background="@drawable/rounded_corner"
+        android:fontFamily="@font/comfortaa"
+        android:gravity="center|left"
+        android:text="@string/angen"
+        android:textSize="12sp"
+        app:layout_constraintStart_toStartOf="@+id/textView5"
+        app:layout_constraintTop_toBottomOf="@+id/textView3" />
+
+    <TextView
+        android:id="@+id/textView10"
+        android:layout_width="350dp"
+        android:layout_height="42dp"
+        android:layout_marginTop="4dp"
+        android:background="@drawable/rounded_corner"
+        android:fontFamily="@font/comfortaa"
+        android:gravity="center|left"
+        android:text="@string/pasus"
+        android:textSize="12sp"
+        app:layout_constraintStart_toStartOf="@+id/textView5"
+        app:layout_constraintTop_toBottomOf="@+id/textView4" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="350dp"
+        android:layout_height="42dp"
+        android:layout_marginTop="4dp"
+        android:background="@drawable/rounded_corner"
+        android:fontFamily="@font/comfortaa"
+        android:gravity="center|left"
+        android:text="@string/paconv"
+        android:textSize="12sp"
+        app:layout_constraintStart_toStartOf="@+id/textView5"
+        app:layout_constraintTop_toBottomOf="@+id/textView5" />
+
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="350dp"
+        android:layout_height="42dp"
+        android:layout_marginTop="4dp"
+        android:background="@drawable/rounded_corner"
+        android:fontFamily="@font/comfortaa"
+        android:gravity="center|left"
+        android:text="@string/ambconv"
+        android:textSize="12sp"
+        app:layout_constraintStart_toStartOf="@+id/textView5"
+        app:layout_constraintTop_toBottomOf="@+id/textView2" />
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="350dp"
+        android:layout_height="42dp"
+        android:layout_marginTop="4dp"
+        android:background="@drawable/rounded_corner"
+        android:fontFamily="@font/comfortaa"
+        android:gravity="center|left"
+        android:text="@string/servsoci"
+        android:textSize="12sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/bt12" />
+
+    <TextView
+        android:id="@+id/TITULO"
+        android:layout_width="362dp"
+        android:layout_height="119dp"
+        android:layout_alignParentRight="true"
+        android:background="@drawable/rounded_corner"
+        android:fontFamily="@font/comfortaa"
+        android:textStyle="bold"
+        android:gravity="center"
+        android:text="@string/text3"
+        android:textSize="15sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageView4" />
+
+    <ImageView
+        android:id="@+id/imageView4"
+        android:layout_width="346dp"
+        android:layout_height="99dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/logohorizontal" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

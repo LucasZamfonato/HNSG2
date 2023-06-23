@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".VisitaActivity">
+
+    <LinearLayout
+        android:id="@+id/linearLayout2"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:background="@drawable/main_header_selector"
+        android:orientation="horizontal"
+        tools:layout_editor_absoluteX="-16dp"
+        tools:layout_editor_absoluteY="-47dp"></LinearLayout>
+
+    <TextView
+        android:id="@+id/textView7"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="6dp"
+        android:layout_weight="1"
+        android:background="@drawable/rounded_corner"
+        android:fontFamily="@font/comfortaa"
+        android:textStyle="bold"
+        android:text="@string/Ntroca"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/btN" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="290dp"
+        android:layout_height="50dp"
+        android:background="@drawable/rounded_corner"
+        android:fontFamily="@font/comfortaa"
+        android:textStyle="bold"
+        android:gravity="center"
+        android:text="@string/nvisita"
+        android:textSize="19dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageView5" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="369dp"
+        android:layout_height="79dp"
+        android:layout_marginTop="24dp"
+        android:background="@drawable/rounded_corner"
+        android:fontFamily="@font/comfortaa"
+        android:gravity="left"
+        android:text="@string/UTIV"
+
+
+        android:textSize="15dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="370dp"
+        android:layout_height="115dp"
+        android:layout_marginTop="8dp"
+        android:background="@drawable/rounded_corner"
+        android:fontFamily="@font/comfortaa"
+        android:gravity="left"
+        android:text="@string/ALAV"
+        android:textSize="15sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView2" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="374dp"
+        android:layout_height="79dp"
+        android:layout_marginTop="8dp"
+        android:background="@drawable/rounded_corner"
+        android:fontFamily="@font/comfortaa"
+        android:gravity="left"
+        android:text="@string/SRV"
+        android:textSize="15sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView3" />
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="358dp"
+        android:layout_height="52dp"
+        android:layout_marginTop="32dp"
+        android:background="@drawable/rounded_corner"
+        android:fontFamily="@font/comfortaa"
+        android:gravity="center"
+        android:text="@string/SV"
+        android:textSize="13dp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView4" />
+
+    <Button
+        android:id="@+id/btN"
+        android:layout_width="94dp"
+        android:layout_height="85dp"
+        android:layout_marginTop="24dp"
+        android:background="#003C1212"
+        android:backgroundTint="#00FFFFFF"
+        android:foreground="@drawable/troca"
+        android:foregroundGravity="fill"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView5" />
+
+    <ImageView
+        android:id="@+id/imageView5"
+        android:layout_width="288dp"
+        android:layout_height="116dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.528"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/logohorizontal" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

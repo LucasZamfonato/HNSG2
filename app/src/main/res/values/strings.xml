@@ -1,0 +1,143 @@
+<resources>
+    <string name="app_name">HNSG</string>
+    <string name="r0">EMERGÊNCIA SUS E CONVÊNIO - 24Hrs - Segunda a Segunda</string>
+    <string name="r1">DIGECLIN - 08:00 às 17:00 - Segunda a Sexta</string>
+    <string name="r2">TOMOCLINICA - 08:00 às 18:00 - Segunda a Sexta</string>
+    <string name="r3">SÃO PIETRO - 08:00 às 17:00 - Segunda a Sexta</string>
+    <string name="r4">RAIO X - 08:00 às 17:00 - Segunda a Sexta</string>
+    <string name="r5">AMBULATÓRIO SUS - 06:00 às 17:48 - Segunda a Sexta</string>
+    <string name="r6">AMBULATÓRIO CONVÊNIO - 07:00 às 17:48 - Segunda a Sexta</string>
+    <string name="r7">TRAUMATOLOGIA - 07:00 às 17:48 - Segunda a Sexta</string>
+    <string name="r8">OUVIDORIA - 08:00 às 17:48 - Segunda a Sexta</string>
+    <string name="r9">ONCOLOGIA - 07:30 às 17:30 - Segunda a Sexta</string>
+    <string name="r10">RECPECÃO BLOCO CIRÚRGICO - 07:30 às 17:30 - Segunda a Sexta</string>
+    <string name="rhh">Novo horário de atendimento aos colaboradores: das 7h às 9h e das 12h às 14h, de segunda a sexta-feira. Para demais contatos, utilize o aplicativo da empresa. Agradecemos sua compreensão e estamos à disposição para ajudar dentro desses horários. Equipe de Recursos Humanos.</string>
+
+
+    <string name="conveni">•CONVENIOS</string>
+    <string name="espc">•ESPECIALIDADES</string>
+    <string name="espc2">- Oncologia \n\n - Oftalmologia \n\n - Traumatologia \n\n - Neurologia \n\n - Cirurgia Geral \n\n - Urologia </string>
+
+
+
+    <string name="login">Login</string>
+    <string name="senha">Senha</string>
+    <string name="inflogin">AVISO: POR MOTIVOS DE SEGURANÇA, SOLICITAMOS QUE LOGIN E SENHA SEJAM OBTIDOS APENAS POR MEIO DA ABERTURA DE UM CHAMADO PELO PAINEL DA TI NA INTRANET.</string>
+
+
+    <string name="rhe">Encaminhe Email para o RH</string>
+    <string name="cc">Retire seu contra chegue por aqui</string>
+    <string name="rhw">Entre em contato com o RH pelo whatsap</string>
+    <string name="infcola">ÁREA DO COLABORADOR</string>
+    <string name="informacoes">INFORMACÕES</string>
+    <string name="horarios">HORÁRIOS</string>
+    <string name="trocas">TROCAS</string>
+    <string name="ramais">RAMAIS</string>
+    <string name="mapa">MAPA</string>
+    <string name="exames">EXAMES</string>
+    <string name="visita">VISITA</string>
+    <string name="ouvidoria">OUVIDORIA</string>
+    <string name="colaborador">COLABORADOR</string>
+    <string name="agendamento">AGENDAMENTO CONVÊNIOS</string>
+    <string name="text1">Explore os ícones abaixo para acessar funções exclusivas da instituição. Estamos disponíveis para ajudá-lo em suas necessidades.</string>
+
+    <string name="text2"><string name="text1">Bem-vindo ao aplicativo do Hospital Nossa Senha das Graças! Aqui você encontrará todas as informações sobre visitas, ramais, exames, consultas e horários. Facilitamos sua estadia, fornecendo tudo o que você precisa na palma da sua mão. Conte conosco para uma experiência de cuidados de saúde conveniente e confiável.</string></string>
+    <string name="text3">Para iniciar uma chamada, clique no botão abaixo. Abaixo, você encontrará uma lista de ramais. Após fazer a ligação, digite o número do ramal desejado ou aguarde para falar com a telefonista.</string>
+    <string name="ouvi">1121 - OUVIDORIA</string>
+    <string name="ambconv">1007 - AMBULATORIO CONVÊNIOS</string>
+    <string name="paconv">1091 - PRONTO ATENDIMENTO CONVÊNIOS</string>
+    <string name="pasus">1130 - PRONTO ATENDIMENTO SUS</string>
+    <string name="servsoci">1140 - SERVIÇO SOCIAL</string>
+    <string name="angen">1091 - AGENDAMENTO DE CONSULTAS CONVÊNIOS</string>
+    <string name="digi">1177 - DIGECLIN</string>
+    <string name="ONCO">1112 - ONCOLOGIA</string>
+    <string name="tomo">1069 - TOMOGRAFIA</string>
+    <string name="hor">Encontre aqui os horários de funcionamento dos setores institucionais de atendimento ao paciente..</string>
+    <string name="troca2">Normas para troca de Acompanhantes</string>
+
+    <string name="trocaN">•	Horários para trocas:\n
+07:30 às 09:00\n
+12:00 às 14:00\n
+19:30 às 21:00\n \n
+•	Até dois (2) visitantes por horário, exceto na SR que é apenas um (1) visitante.\n
+E um (1) acompanhante por turno, UTI e SR sem Acompanhante;\n \n
+•	Não é mais obrigatória a apresentação da carteira de vacinação;\n \n
+•	Idade mínima para visita 13 anos;\n \n
+•	Idade mínima para acompanhante 18 anos;\n \n
+•	Sem idade máxima para acompanhantes;\n \n
+•	Os visitantes menores de 18 anos para pacientes em conforto, devem passar com\n
+a psicologia para liberação da visita (Segunda a sexta das 08:00 às 17:30);\n \n
+</string>
+    <string name="end">Rua Santos Ferreira, 1864
+CEP 92025-222
+Canoas RS
+</string>
+    <string name="nvisita">Horário para visita e troca</string>
+
+    <string name="Ntroca">Regras para troca!</string>
+
+    <string name="UTIV">UTI \n Segunda à Segunda das 15:30 ás 16:00
+    (Uso obrigatório de máscara)</string>
+    <string name="ALAV">UNIDADES DE INTERNAÇÃO \n Segunda a sexta das 16:00 às 16:30
+        Sábado, Domingo e Feriado
+        das 10:00 às 10:30
+        (Uso obrigatório de máscara para pacientes em isolamento)</string>
+
+    <string name="SRV">SALA DE RECUPERAÇÃO CIRURGIA \n Segunda à Segunda das 17:00 ás 17:15
+    (Uso obrigatório de máscara)</string>
+    <string name="SV">DEMAIS LOCAIS COMO PRONTO ATENDIMENTO SUS, CONVÊNIOS E RETAGUARDA SEM VISITA!</string>
+
+
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="lorem_ipsum">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam in scelerisque sem. Mauris
+        volutpat, dolor id interdum ullamcorper, risus dolor egestas lectus, sit amet mattis purus
+        dui nec risus. Maecenas non sodales nisi, vel dictum dolor. Class aptent taciti sociosqu ad
+        litora torquent per conubia nostra, per inceptos himenaeos. Suspendisse blandit eleifend
+        diam, vel rutrum tellus vulputate quis. Aliquam eget libero aliquet, imperdiet nisl a,
+        ornare ex. Sed rhoncus est ut libero porta lobortis. Fusce in dictum tellus.\n\n
+        Suspendisse interdum ornare ante. Aliquam nec cursus lorem. Morbi id magna felis. Vivamus
+        egestas, est a condimentum egestas, turpis nisl iaculis ipsum, in dictum tellus dolor sed
+        neque. Morbi tellus erat, dapibus ut sem a, iaculis tincidunt dui. Interdum et malesuada
+        fames ac ante ipsum primis in faucibus. Curabitur et eros porttitor, ultricies urna vitae,
+        molestie nibh. Phasellus at commodo eros, non aliquet metus. Sed maximus nisl nec dolor
+        bibendum, vel congue leo egestas.\n\n
+        Sed interdum tortor nibh, in sagittis risus mollis quis. Curabitur mi odio, condimentum sit
+        amet auctor at, mollis non turpis. Nullam pretium libero vestibulum, finibus orci vel,
+        molestie quam. Fusce blandit tincidunt nulla, quis sollicitudin libero facilisis et. Integer
+        interdum nunc ligula, et fermentum metus hendrerit id. Vestibulum lectus felis, dictum at
+        lacinia sit amet, tristique id quam. Cras eu consequat dui. Suspendisse sodales nunc ligula,
+        in lobortis sem porta sed. Integer id ultrices magna, in luctus elit. Sed a pellentesque
+        est.\n\n
+        Aenean nunc velit, lacinia sed dolor sed, ultrices viverra nulla. Etiam a venenatis nibh.
+        Morbi laoreet, tortor sed facilisis varius, nibh orci rhoncus nulla, id elementum leo dui
+        non lorem. Nam mollis ipsum quis auctor varius. Quisque elementum eu libero sed commodo. In
+        eros nisl, imperdiet vel imperdiet et, scelerisque a mauris. Pellentesque varius ex nunc,
+        quis imperdiet eros placerat ac. Duis finibus orci et est auctor tincidunt. Sed non viverra
+        ipsum. Nunc quis augue egestas, cursus lorem at, molestie sem. Morbi a consectetur ipsum, a
+        placerat diam. Etiam vulputate dignissim convallis. Integer faucibus mauris sit amet finibus
+        convallis.\n\n
+        Phasellus in aliquet mi. Pellentesque habitant morbi tristique senectus et netus et
+        malesuada fames ac turpis egestas. In volutpat arcu ut felis sagittis, in finibus massa
+        gravida. Pellentesque id tellus orci. Integer dictum, lorem sed efficitur ullamcorper,
+        libero justo consectetur ipsum, in mollis nisl ex sed nisl. Donec maximus ullamcorper
+        sodales. Praesent bibendum rhoncus tellus nec feugiat. In a ornare nulla. Donec rhoncus
+        libero vel nunc consequat, quis tincidunt nisl eleifend. Cras bibendum enim a justo luctus
+        vestibulum. Fusce dictum libero quis erat maximus, vitae volutpat diam dignissim.
+    </string>
+</resources>
